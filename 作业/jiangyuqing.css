@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.background{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background: url(background.png) no-repeat center;
+    flex-direction: column;
+    padding-top: 30px;
+}
+.box1{
+    margin: 0 auto;
+    height: 50px;
+    font-family: "inconfont";
+    width: 570px;
+}
+span.icon-fanhui{
+    font-size: 52px;
+    font-weight: 550;
+    float: left;
+    color: #82c2cb;
+}
+span.icon-info{
+    font-size: 70px;
+    font-weight: 500;
+    left: 960px;
+    top: 21px;
+    color: #82c2cb;
+    position: absolute;
+
+
+}
+.blank1{
+    height: 90px;
+}
+.box2{
+    margin: 0px auto;
+    height: 150px;
+    width: 150px;
+}
+span.icon-touxiang{
+    color: #98c5d2;
+    font-size: 150px;
+}
+span:hover{
+    color: #1aadd8;
+}
+.blank2{
+    margin: 0px auto;
+    height: 10px;
+}
+.box3{
+    margin: 0px auto;
+    height: 62px;
+    border-bottom: 2px solid #839cc0;
+    width: 440px;
+    font-size: 25px;
+    color: #fff;
+    padding-top: 20px;
+    font-weight: 350;
+}
+.box4{
+    margin: 0px auto;
+    height: 62px;
+    border-bottom: 2px solid #839cc0;
+    width: 440px;
+    font-size: 25px;
+    color: #fff;
+    padding-top: 20px;
+    font-weight: 350;
+}
+.box5{
+    margin: 0px auto;
+    height: 62px;
+    border-bottom: 2px solid #839cc0;
+    width: 440px;
+    font-size: 25px;
+    color: #fff;
+    padding-top: 20px;
+    font-weight: 350;
+}
+.box6{
+    margin: 0px auto;
+    height: 62px;
+    width: 440px;
+    font-size: 25px;
+    color: #fff;
+    padding-top: 20px;
+    font-weight: 350;
+}
+.box6 a{
+    color: #3dfcb4;
+    text-decoration: none;
+    float: right;
+}
+.box6 a:hover{
+    color: #07c77e;
+}
+.blank3{
+    height: 40px;
+}
+.box7{
+    margin: 0px auto;
+    height: 75px;
+    background-color: #fff;
+    width: 440px;
+    border-radius: 35px;
+    text-align: center;
+}
+.signup{
+    margin-top: 15px;
+    font-size: 32px;
+    color: #706d9f;
+    text-align: center;
+    font-weight: 500;
+    text-decoration: none;
+}
+.signup:hover{
+    color: #2b2941;
+}
+.signup a{
+    text-decoration: none;
+}
+.blank4{
+    margin: 0px auto;
+    height: 30px;
+}
+.box8{
+    margin: 0px auto;
+    height: 20px;
+    width: 440px;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+}
+.box8 a{
+    color: #3dfcb4;
+    text-decoration: none;
+}
+.box8 a:hover{
+    color: #07c77e;
+}
